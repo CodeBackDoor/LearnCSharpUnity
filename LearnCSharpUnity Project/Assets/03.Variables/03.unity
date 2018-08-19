@@ -205,6 +205,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f01fa6ea9a4667640807be9c67b9ed96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nombre: Andrea
+  edad: 25
 --- !u!4 &1954259194
 Transform:
   m_ObjectHideFlags: 0
@@ -326,6 +328,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f01fa6ea9a4667640807be9c67b9ed96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nombre: Moon
+  edad: 25
 --- !u!4 &2122523055
 Transform:
   m_ObjectHideFlags: 0

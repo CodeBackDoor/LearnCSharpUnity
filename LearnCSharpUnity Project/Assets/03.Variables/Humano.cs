@@ -15,8 +15,25 @@ namespace MoonAntonio
 {
 	public class Humano : MonoBehaviour 
 	{
+		public string nombre = string.Empty;
+		public int edad = 25;
+		private string _peliculaFavorita;
+
+		public string PeliculaFavorita
+		{
+			get
+			{
+				return _peliculaFavorita;
+			}
+			private set
+			{
+				_peliculaFavorita = value;
+			}
+		}	
+
 		private void Start()
 		{
+			name = nombre;
 			Debug.Log("Hola, mi nombre es " + name);
 		}
 	}
