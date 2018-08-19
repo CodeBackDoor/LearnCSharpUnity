@@ -7,18 +7,29 @@ Introducción breve a la mayoría de las características del lenguaje, pero des
 
 Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos de información aleatorios y no relacionados. El contenido aquí está destinado a ser más permanente, completo y guiado, como si estuvieras en una clase o leyendo un libro.
 
-<center>[1. Introducción][2]</center>
-<center>[2. Tu primer script][3]</center>
-<center>[3. Variables][4]</center>
-<center>[4. Métodos][5]</center>
-<center>5. Bucles</center>
-<center>6. Genéricos</center>
-<center>7. Corutinas</center>
-<center>8. Clases</center>
-<center>9. Físicas</center>
-<center>10. Guardando datos</center>
-<center>11. Enums y Flags</center>
-<center>12. Structs</center>
+[1. Introducción][2]
+
+[2. Tu primer script][3]
+
+[3. Variables][4]
+
+[4. Métodos][5]
+
+5. Bucles
+
+6. Genéricos
+
+7. Corutinas
+
+8. Clases
+
+9. Físicas
+
+10. Guardando datos
+
+11. Enums y Flags
+
+12. Structs
 
 # License: Project is released under MIT license Copyright (c) 2018 Antonio Mateo (MoonAntonio) and contributors.
 
