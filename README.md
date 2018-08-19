@@ -3,6 +3,23 @@
 # LearnCSharpUnity
 Introducción breve a la mayoría de las características del lenguaje, pero desde la perspectiva del uso dentro de Unity en lugar de casos de uso general.
 
+<center><h1>Aprende C# con Unity</h1></center>
+
+Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos de información aleatorios y no relacionados. El contenido aquí está destinado a ser más permanente, completo y guiado, como si estuvieras en una clase o leyendo un libro.
+
+<center>[1. Introducción][2]</center>
+<center>[2. Tu primer script][3]</center>
+<center>[3. Variables][4]</center>
+<center>[4. Métodos][5]</center>
+<center>5. Bucles</center>
+<center>6. Genéricos</center>
+<center>7. Corutinas</center>
+<center>8. Clases</center>
+<center>9. Físicas</center>
+<center>10. Guardando datos</center>
+<center>11. Enums y Flags</center>
+<center>12. Structs</center>
+
 # License: Project is released under MIT license Copyright (c) 2018 Antonio Mateo (MoonAntonio) and contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -10,3 +27,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+[2]: http://bit.ly/2MkTvJc
+[3]: http://bit.ly/2nPtpzn
+[4]: http://bit.ly/2vUGBXV
+[5]: http://bit.ly/2Mkom8N
