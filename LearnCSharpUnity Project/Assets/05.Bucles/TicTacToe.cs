@@ -18,6 +18,7 @@ namespace MoonAntonio
 	public class TicTacToe : MonoBehaviour 
 	{
 		[SerializeField] Text[] cells;
+		string marca;
 
 		void Start()
 		{
@@ -30,6 +31,16 @@ namespace MoonAntonio
 			{
 				cells[n].text = "";
 			}
+
+			marca = "X";
+		}
+
+		public void SelectCell(int index)
+		{
+			if (!string.IsNullOrEmpty(cells[index].text)) return;
+
+			cells[index].text = marca;
+			marca = (marca == "X") ? "O" : "X";
 		}
 	}
 }
