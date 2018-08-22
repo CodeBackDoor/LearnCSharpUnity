@@ -26,16 +26,10 @@ namespace MoonAntonio
 
 		public void NewGame()
 		{
-			cells[0].text = "";
-			cells[1].text = "";
-			cells[2].text = "";
-			cells[3].text = "";
-			cells[4].text = "";
-			cells[5].text = "";
-			cells[6].text = "";
-			cells[7].text = "";
-			cells[8].text = "";
-			cells[9].text = "";
+			for (int n = 0; n < cells.Length; n++)
+			{
+				cells[n].text = "";
+			}
 		}
 	}
 }
