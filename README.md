@@ -17,7 +17,7 @@ Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos 
 
 [5. Bucles][6]
 
-6. Genéricos
+[6. Genéricos][7]
 
 7. Corutinas
 
@@ -45,3 +45,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [4]: http://bit.ly/2vUGBXV
 [5]: http://bit.ly/2Mkom8N
 [6]: http://bit.ly/2MLiHYE
+[7]: http://bit.ly/2MtKLR8
