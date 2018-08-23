@@ -15,7 +15,7 @@ Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos 
 
 [4. Métodos][5]
 
-5. Bucles
+[5. Bucles][6]
 
 6. Genéricos
 
@@ -44,3 +44,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [3]: http://bit.ly/2nPtpzn
 [4]: http://bit.ly/2vUGBXV
 [5]: http://bit.ly/2Mkom8N
+[6]: http://bit.ly/2MLiHYE
