@@ -19,6 +19,18 @@ namespace MoonAntonio
 	{
 		[SerializeField] Text[] cells;
 		string marca;
+		bool gameOver;
+		int[,] wins = new int[,]
+		{
+			{0,1,2},
+			{3,4,5},
+			{6,7,8},
+			{0,3,6},
+			{1,4,7},
+			{2,5,8},
+			{0,4,8},
+			{2,4,6}
+		};
 
 		void Start()
 		{
@@ -41,6 +53,25 @@ namespace MoonAntonio
 
 			cells[index].text = marca;
 			marca = (marca == "X") ? "O" : "X";
+		}
+
+		void CheckGameState()
+		{
+			for (int i = 0; i < wins.GetLength(0); ++i)
+			{
+				int j = wins[i, 0];
+				int k = wins[i, 1];
+				int l = wins[i, 2];
+				if (cells[j].text == cells[k].text &&
+					cells[k].text == cells[l].text &&
+					!string.IsNullOrEmpty(cells[j].text))
+				{
+					gameOver = true;
+					Debug.Log(cells[j].text + " GANAS!");
+					Invoke("NewGame", 3f);
+					break;
+				}
+			}
 		}
 	}
 }
