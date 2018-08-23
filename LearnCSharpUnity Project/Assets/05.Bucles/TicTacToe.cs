@@ -49,10 +49,11 @@ namespace MoonAntonio
 
 		public void SelectCell(int index)
 		{
-			if (!string.IsNullOrEmpty(cells[index].text)) return;
+			if (gameOver || !string.IsNullOrEmpty(cells[index].text)) return;
 
 			cells[index].text = marca;
 			marca = (marca == "X") ? "O" : "X";
+			CheckGameState();
 		}
 
 		void CheckGameState()
