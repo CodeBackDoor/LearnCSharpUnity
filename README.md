@@ -19,7 +19,7 @@ Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos 
 
 [6. Genéricos][7]
 
-7. Corutinas
+[7. Corutinas][8]
 
 8. Clases
 
@@ -46,3 +46,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [5]: http://bit.ly/2Mkom8N
 [6]: http://bit.ly/2MLiHYE
 [7]: http://bit.ly/2MtKLR8
+[8]: http://bit.ly/2wnT4TG
