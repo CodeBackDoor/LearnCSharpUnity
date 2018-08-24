@@ -32,3 +32,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/09.Guardando datos/Juego.unity
     guid: b688c6b32e9699e4b84327136b086473
+  - enabled: 1
+    path: Assets/09.Guardando datos/Demo.unity
+    guid: 9929821ac2cb48643a80251ad420afb5
