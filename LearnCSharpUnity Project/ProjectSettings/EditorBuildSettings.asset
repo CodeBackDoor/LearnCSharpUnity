@@ -4,4 +4,31 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/02.Tu Primer Script/02.unity
+    guid: b17448e1579bc484e920e36424e3c316
+  - enabled: 1
+    path: Assets/03.Variables/03.unity
+    guid: 86a5b96208d9f93409a8e6cb6f1ad020
+  - enabled: 1
+    path: Assets/04.Metodos/04.unity
+    guid: 4c8f096c2eb6e0141a13faf8a3221f3c
+  - enabled: 1
+    path: Assets/05.Bucles/05.unity
+    guid: a958529a9557b344e8bfe82fe9043e9d
+  - enabled: 1
+    path: Assets/06.Genericos/06.unity
+    guid: e6912264eb024934fa9f60a008a1ed90
+  - enabled: 1
+    path: Assets/07.Corrutinas/07.unity
+    guid: 499e121bed360014384d886ef030a6d0
+  - enabled: 1
+    path: Assets/08.Clases/08.unity
+    guid: 07a383ef2bb5477478d0ae02cb39bbdc
+  - enabled: 1
+    path: Assets/09.Guardando datos/Titulo.unity
+    guid: c01354cf320b7f34c91afe78ea38c94c
+  - enabled: 1
+    path: Assets/09.Guardando datos/Juego.unity
+    guid: b688c6b32e9699e4b84327136b086473

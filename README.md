@@ -21,15 +21,13 @@ Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos 
 
 [7. Corutinas][8]
 
-8. Clases
+[8. Clases][9]
 
-9. Físicas
+9. Guardando datos
 
-10. Guardando datos
+10. Enums y Flags
 
-11. Enums y Flags
-
-12. Structs
+11. Structs
 
 # License: Project is released under MIT license Copyright (c) 2018 Antonio Mateo (MoonAntonio) and contributors.
 
@@ -47,3 +45,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [6]: http://bit.ly/2MLiHYE
 [7]: http://bit.ly/2MtKLR8
 [8]: http://bit.ly/2wnT4TG
+[9]: http://bit.ly/2MxCVpG
