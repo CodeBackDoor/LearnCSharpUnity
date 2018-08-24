@@ -23,7 +23,7 @@ Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos 
 
 [8. Clases][9]
 
-9. Guardando datos
+[9. Guardando datos][10]
 
 10. Enums y Flags
 
@@ -46,3 +46,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [7]: http://bit.ly/2MtKLR8
 [8]: http://bit.ly/2wnT4TG
 [9]: http://bit.ly/2MxCVpG
+[10]: http://bit.ly/2Mzk11u
