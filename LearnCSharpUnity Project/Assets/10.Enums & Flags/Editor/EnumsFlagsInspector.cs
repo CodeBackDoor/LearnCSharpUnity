@@ -1,6 +1,6 @@
 ﻿//                                  ┌∩┐(◣_◢)┌∩┐
 //																				\\
-// EnumsFlags.cs.cs (00/00/0000)												\\
+// EnumsFlagsInspector.cs (00/00/0000)											\\
 // Autor: Antonio Mateo (.\Moon Antonio) 	antoniomt.moon@gmail.com			\\
 // Descripcion:																	\\
 // Fecha Mod:		00/00/0000													\\
@@ -9,21 +9,19 @@
 
 #region Librerias
 using UnityEngine;
+using UnityEditor;
+using System.Collections;
 #endregion
 
 namespace MoonAntonio
 {
-	[System.Flags]
-	public enum Colors
+	[CustomEditor(typeof(EnumsFlags))]
+	public class EnumsFlagsInspector : Editor
 	{
-		None = 0,
-		Red = 1 << 0,
-		Green = 1 << 1,
-		Blue = 1 << 2,
-	}
-
-	public class EnumsFlags : MonoBehaviour 
-	{
-		public Colors color;
+		public override void OnInspectorGUI()
+		{
+			EnumsFlags e = (EnumsFlags)target;
+			e.color = (Colors)EditorGUILayout.EnumFlagsField("Colors", e.color);
+		}
 	}
 }
