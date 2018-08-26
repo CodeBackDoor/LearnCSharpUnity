@@ -35,3 +35,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/09.Guardando datos/Demo.unity
     guid: 9929821ac2cb48643a80251ad420afb5
+  - enabled: 1
+    path: Assets/10.Enums & Flags/10.unity
+    guid: bcc398464b29d184bac01a42bf8cf5d8
+  - enabled: 1
+    path: Assets/11.Structs/11.unity
+    guid: cda439818b0a35448a8c16f64a5ce637
