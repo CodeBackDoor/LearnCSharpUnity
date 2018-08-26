@@ -27,7 +27,7 @@ Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos 
 
 [10. Enums y Flags][11]
 
-11. Structs
+[11. Structs][12]
 
 # License: Project is released under MIT license Copyright (c) 2018 Antonio Mateo (MoonAntonio) and contributors.
 
@@ -48,3 +48,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [9]: http://bit.ly/2MxCVpG
 [10]: http://bit.ly/2Mzk11u
 [11]: http://bit.ly/2BGWkzn
+[12]: http://bit.ly/2BPN0t6
