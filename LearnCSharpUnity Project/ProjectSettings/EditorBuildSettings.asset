@@ -41,3 +41,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/11.Structs/11.unity
     guid: cda439818b0a35448a8c16f64a5ce637
+  - enabled: 1
+    path: Assets/12.Scriptable Objects/12.unity
+    guid: 47707080753f5e04292837db2eeb3164
