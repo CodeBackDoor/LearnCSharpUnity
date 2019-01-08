@@ -29,7 +29,7 @@ Aunque la mayoría de mis publicaciones son temporales, a menudo son fragmentos 
 
 [11. Structs][12]
 
-[12. Structs][13]
+[12. Scriptable Objects][13]
 
 # License: Project is released under MIT license Copyright (c) 2018 Antonio Mateo (MoonAntonio) and contributors.
 
